@@ -3,4 +3,4 @@ This is a repository where I will share my small python projects. You can downlo
 
 Project List:
 
-1) Discord bot that gives quotes to memebers of a particular server.
+1) Discord bot that gives quotes to members of a particular server.
